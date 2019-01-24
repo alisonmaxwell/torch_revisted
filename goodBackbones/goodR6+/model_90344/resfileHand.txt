@@ -1,0 +1,62 @@
+EX 1 EX 2       
+USE_INPUT_SC 
+
+NATRO
+start
+
+1 E NATAA
+3 E NATAA
+5 E NATAA
+7 E NATAA
+9 E NATAA
+13 E NATAA
+
+14 F NATAA
+16 F NATAA
+18 F NATAA
+20 F NATAA
+22 F NATAA
+25 F NATAA
+26 F NATAA
+
+* Y NOTAA CAM
+
+27 Y PIKAA MLI
+30 Y PIKAA LFWIVY
+31 Y PIKAA TV
+33 Y PIKAA LMIVF
+
+# This as Ser can accept Lys H
+38 Y NOTAA MDCQ
+# These two best paired as either E & E or D & D; contacts bridging 1 His & 2lys
+34 Y PIKAA DE
+37 Y PIKAA DENQ
+40 Y PIKAA T
+41 Y NOTAA MC
+42 Y PIKAA LVI
+44 Y NOTAA MACQNDEHRKYWF
+
+# 44 can Ser h-Bond to His
+45 Y PIKAA GAS
+47 Y PIKAA LIVF
+
+### surface residues set
+28 Y PIKAA D
+29 Y APOLAR
+32 Y PIKAA R
+
+#surface set 1
+35 Y PIKAA D
+36 Y PIKAA R
+39 Y PIKAA Q
+43 Y PIKAA E
+46 Y PIKAA K
+
+## Surface set 2
+#35 Y PIKAA D
+#36 Y PIKAA S
+#39 Y PIKAA K
+#43 Y PIKAA E
+#46 Y PIKAA K
+##
+
